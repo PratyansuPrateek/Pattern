@@ -9,6 +9,9 @@ This project is created using Java in IntelliJ IDEA. It contains pattern program
 3. Output will be shown in console
 
 ## 📸 Output
+=> All out put are present in image folder in my Repo
+
+
 ![Output Screenshot](images/Pattern1.png)
 
 ## 🛠 Tech Used
