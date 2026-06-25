@@ -9,7 +9,7 @@ This project is created using Java in IntelliJ IDEA. It contains pattern program
 3. Output will be shown in console
 
 ## 📸 Output
-![Output Screenshot](Pattern.png)
+![Output Screenshot](Pattern1.png)
 
 ## 🛠 Tech Used
 - Java
